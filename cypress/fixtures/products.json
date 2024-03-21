@@ -1,0 +1,20 @@
+{
+  "product": {
+      "name": "Pantalon",
+      "price": 34,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTROoeC71u-Vc-G4-T93McQJqj8ON7HBi1toy6hFzpdQ&s",
+      "id": 9483
+  },
+  "product2": {
+    "name": "Remera",
+    "price": 65,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTROoeC71u-Vc-G4-T93McQJqj8ON7HBi1toy6hFzpdQ&s",
+    "id": 9745
+},
+  "productEdited": {
+    "name": "Pantalon editado",
+    "price": 150,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTROoeC71u-Vc-G4-T93McQJqj8ON7HBi1toy6hFzpdQ&s",
+    "id": 9483
+}
+}

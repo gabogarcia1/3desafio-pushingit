@@ -1,0 +1,16 @@
+{
+  "name": "4desafio-pushingit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.7.0",
+    "pg": "^8.11.3"
+  }
+}
